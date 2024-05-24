@@ -9,9 +9,7 @@ function compareTriplets($a, $b) {
     for($i = 0;$i < 3;$i++){
         
         if($a[$i] > $b[$i]){
-
             $resultA += 1;
-
         }
         elseif($a[$i] < $b[$i]){
             $resultB += 1;
