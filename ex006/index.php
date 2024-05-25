@@ -17,7 +17,6 @@ function birthdayCakeCandles($candles) {
 
         }
     }
-
     for($i=0; $i < count($candles); $i++){
 
         if($candles[$i] == $cont){
